@@ -43,6 +43,8 @@ const support = {
   ],
 };
 
+const getCurrentYear = () => new Date().getFullYear();
+
 export const Footer = () => {
   const theme = useTheme();
   return (
@@ -73,12 +75,21 @@ export const Footer = () => {
                 typography="body3"
                 color={theme.colors.neutral.silver}
               >
-                Copyright © 2020 Nexcent ltd.
+                Copyright © {getCurrentYear()} Nexcent ltd.
               </Typography>
               <Typography
                 typography="body3"
                 color={theme.colors.neutral.silver}
                 paddingTop="16px"
+              >
+                Developed by:&nbsp;
+                <Link to="https://www.linkedin.com/in/andrii-oliinyk-0020251aa/">
+                  Andrew Oliinyk
+                </Link>
+              </Typography>
+              <Typography
+                typography="body3"
+                color={theme.colors.neutral.silver}
               >
                 All rights reserved
               </Typography>

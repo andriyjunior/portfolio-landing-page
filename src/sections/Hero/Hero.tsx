@@ -11,12 +11,18 @@ import {
   StyledIllustration,
 } from "./StyledHero";
 
+import sliderStyles from "./slider.module.scss";
+
 export const Hero = () => {
   const theme = useTheme();
   return (
     <StyledSection>
       <StyledBody>
-        <Swiper pagination={{ clickable: true }} modules={[Pagination]}>
+        <Swiper
+          pagination={{ clickable: true }}
+          modules={[Pagination]}
+          className={sliderStyles.sliderWrapper}
+        >
           <SwiperSlide>
             <StyledSlide>
               <StyledLeft>
