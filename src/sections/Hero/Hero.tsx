@@ -65,7 +65,7 @@ export const Hero = () => {
                 <Typography typography="h1">
                   Lessons and insights
                   <Typography typography="h1" color={theme.colors.primary}>
-                    from 8 years
+                    from 10 years
                   </Typography>
                 </Typography>
                 <Typography typography="body2">
