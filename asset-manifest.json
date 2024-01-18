@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-landing-page/static/css/main.b82405af.css",
+    "main.js": "/portfolio-landing-page/static/js/main.2fd988ac.js",
+    "static/js/787.2764ae0e.chunk.js": "/portfolio-landing-page/static/js/787.2764ae0e.chunk.js",
+    "static/media/image1.png": "/portfolio-landing-page/static/media/image1.98b0447f497213ea6816.png",
+    "static/media/image2.png": "/portfolio-landing-page/static/media/image2.e0e2d5a1e9d216768fcc.png",
+    "static/media/image3.png": "/portfolio-landing-page/static/media/image3.f526a5081046f363a0f1.png",
+    "static/media/tesla.png": "/portfolio-landing-page/static/media/tesla.73fa20d2fc0831108877.png",
+    "static/media/hero.svg": "/portfolio-landing-page/static/media/hero.a97d52bed82f4ddd7c4150a62239f227.svg",
+    "static/media/about2.svg": "/portfolio-landing-page/static/media/about2.36836dc0f39275f51a43e7d6e69b2c90.svg",
+    "static/media/about1.svg": "/portfolio-landing-page/static/media/about1.438fd8d44c72b77a4ed127fab48e681d.svg",
+    "static/media/icon-3.svg": "/portfolio-landing-page/static/media/icon-3.2cae927078a5e08109a57fbeea976158.svg",
+    "static/media/icon-2.svg": "/portfolio-landing-page/static/media/icon-2.59cf9e81537b088f2421f42d6eb9669a.svg",
+    "static/media/icon-1.svg": "/portfolio-landing-page/static/media/icon-1.e6dce02898940fed0fa83e28490752d4.svg",
+    "index.html": "/portfolio-landing-page/index.html",
+    "main.b82405af.css.map": "/portfolio-landing-page/static/css/main.b82405af.css.map",
+    "main.2fd988ac.js.map": "/portfolio-landing-page/static/js/main.2fd988ac.js.map",
+    "787.2764ae0e.chunk.js.map": "/portfolio-landing-page/static/js/787.2764ae0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82405af.css",
+    "static/js/main.2fd988ac.js"
+  ]
+}
